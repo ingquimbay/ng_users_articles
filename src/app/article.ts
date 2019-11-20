@@ -8,7 +8,5 @@ export class Article {
     description: string;
     keywords: string;
     body: string;
-    published: Date;
-    created: Date;
-    modified: Date;
+
 }
